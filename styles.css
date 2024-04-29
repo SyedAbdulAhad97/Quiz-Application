@@ -11,7 +11,7 @@ body {
     padding: 20px;
     background-color: #dcdbdb;
     border-radius: 8px;
-    /* box-shadow: 0 0 10px rgba(190, 182, 182, 0.1); */
+    box-shadow: 0 0 10px rgba(190, 182, 182, 0.1);
 }
 
 h1, h2 {
